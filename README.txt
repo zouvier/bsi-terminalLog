@@ -1,3 +1,9 @@
+Deployed at
+
+` https://terminal-bsi.herokuapp.com/ `
+
+
+
 INSTALL Python 3.6 on your system
 
 goto terminal and type which python3
