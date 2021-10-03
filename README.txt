@@ -3,6 +3,7 @@ Deployed at
 ` https://terminal-bsi.herokuapp.com/ `
 
 
+Run locally: 
 
 INSTALL Python 3.6 on your system
 
